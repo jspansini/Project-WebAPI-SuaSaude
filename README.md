@@ -1,17 +1,31 @@
-# Project-WebAPI-SuaSaude
-
-<h2> Projeto Python Django com SQLite</h2>
-
-<h3> Descrição </h3>
-
-<p>Cuidado é um aplicativo desenvolvido em Python Django com SQLite que facilita a troca de informações entre enfermeiras do Hospital Dante durante a troca de turnos. O sistema permite o registro de ações realizadas por cada enfermeira, oferecendo um acompanhamento detalhado sobre os cuidados e o estado de pacientes, promovendo uma transição suave e eficiente entre turnos.</p>
-
-<h3>Tecnologias utilizadas</h3>h3>
+<h2> Projeto WebApi AspNet Core - Entendendo os fundamentos </h2>
+<h3> Tópicos visitados </h3>
 <ul>
-  <li> Python </li>
-   <li> Django </li>
-   <li> Javascript </li>
-   <li> Css </li>
-   <li> Bootstrap </li>
-   <li> Sqlite </li>
+  <li> AspNet Core </li>
+   <li> Connection Strings - Conectando com banco de dados | obs: conexão suprimida </li>
+   <li> Arquitetura em camadas </li>
+   <li> Aplicação prática Solid </li>
+   <li> Decorators: produces - consumes </li>
+   <li> Operando DTO - Data Transfer Object</li>
+   <li> Injeção de dependencia com inversão de controle </li>
+   <li> Endpoints </li>
+    <li> Verbos Http e seus retornos </li>
+   <li> Swagger </li>
+</ul>
+  
+    
+
+  <h3> Swagger Endpoints </h3>
+  
+  ![Swagger](https://user-images.githubusercontent.com/68460585/219900542-886fea87-71c8-4237-a80a-17e72ee5e2ca.jpg)
+  
+  <h3> Banco de dados </h3>
+  
+  ![MySql](https://user-images.githubusercontent.com/68460585/219900540-fbb54ce6-64fe-42fb-941e-de9e25049a67.jpg)
+  
+  <br>
+ <h3> Próximas atualizações </h3>
+  <ul>
+  <li> Edição de rotas </li>
+  <li> Implementação de banco em nuvem </li>
 </ul>
